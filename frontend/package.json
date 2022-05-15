@@ -1,4 +1,9 @@
 {
+  
+  "resolution":{
+    "autoprefixer": "10.4.5"
+},
+
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
@@ -46,4 +51,7 @@
   "devDependencies": {
     "mini-css-extract-plugin": "2.4.5"
   }
+  
 }
+
+
