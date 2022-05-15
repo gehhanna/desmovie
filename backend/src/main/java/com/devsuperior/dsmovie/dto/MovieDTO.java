@@ -1,6 +1,12 @@
 package com.devsuperior.dsmovie.dto;
 
+import java.util.HashSet;
+import java.util.Set;
+
+import javax.persistence.OneToMany;
+
 import com.devsuperior.dsmovie.entities.Movie;
+import com.devsuperior.dsmovie.entities.Score;
 
 public class MovieDTO {
 
@@ -9,6 +15,8 @@ public class MovieDTO {
 	private Double score;
 	private Integer count;
 	private String image;
+
+	
 
 	public MovieDTO() {
 
