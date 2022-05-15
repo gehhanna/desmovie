@@ -10,7 +10,6 @@ function Listing() {
 
             <div className="container">
                 <div className="row">
-                //a cada espaço os card vai mudando até 12 espaços.
                     <div className="col-sm-6" col-lg-4 col-xl-3 mb-3>
                         <MovieCard />
                     </div>
