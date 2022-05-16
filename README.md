@@ -18,6 +18,6 @@ yarn start
 .Postman
 .Postgresql 12 e pgAdmin
 .Heroku CLI
-.NodeJS 16.x (https://nodejs.org/en/download/)
+.NodeJS 16.x
 .VS Code
 .Git
