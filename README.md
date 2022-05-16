@@ -13,11 +13,11 @@ yarn start
 
 #Tecnologias e ferramentas usadas.
 
-::marker JDK 11 ou 17
-STS
-Postman
-Postgresql 12 e pgAdmin
-Heroku CLI
-NodeJS 16.x (https://nodejs.org/en/download/)
-VS Code
-Git
+.JDK 11 ou 17
+.STS
+.Postman
+.Postgresql 12 e pgAdmin
+.Heroku CLI
+.NodeJS 16.x (https://nodejs.org/en/download/)
+.VS Code
+.Git
